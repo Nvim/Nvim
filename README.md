@@ -1,6 +1,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nvim&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 
-Gamedev enjoyer busy reinventing the wheel instead of writing gameplay code. I like C++ and Vulkan but I also mess with other languages like C, Go, Zig and Gleam.
+I like C++ and Vulkan but I also mess with other languages like C, Go, Zig and web junk.
+Currently working on a 2D game completely from scratch with C and Vulkan.
 
 Some more projects i'd pin:
 
